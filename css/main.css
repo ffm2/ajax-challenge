@@ -11,3 +11,57 @@ body {
     margin-right: 10px;
 }
 
+input[type="radio"] {
+    margin-left: 30px;
+    margin-right: 5px;
+}
+
+form {
+    border: 1px solid #E0E0E0;
+    padding: 15px;
+}
+
+ul {
+    padding: 15px 0 0 0;
+    list-style-type: none;
+}
+
+#commentSection {
+    border: 1px solid #E0E0E0;
+    padding-left: 15px;
+}
+
+#name {
+    margin-bottom: 0px;
+}
+
+#rating {
+    margin-bottom: 0px;
+}
+
+#score {
+    margin-bottom: 15px;
+}
+
+#title {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+#namebox {
+    padding-bottom: 20px;
+}
+
+#commentbox {
+    padding-bottom: 10px;
+}
+
+#buttonspinner {
+    display: none;
+}
+
+#commentspinner {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
